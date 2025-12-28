@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Next files
+.next
+.next/*
+.next/dev
+.next/dev/server
